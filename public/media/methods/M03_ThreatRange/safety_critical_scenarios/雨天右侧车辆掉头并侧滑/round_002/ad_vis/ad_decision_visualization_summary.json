@@ -1,0 +1,30 @@
+{
+  "schema_version": "threatrange.ad_decision_visualization.v1",
+  "scene_id": "scene-0637",
+  "scene_token": "3045ed93c2534ec2a5cabea89b186bd9",
+  "sample_token": "8b77b8e2cbf144bea91f4c1856b05a7c",
+  "ad_model": "uniad",
+  "provider": "uniad",
+  "action_summary": "continue_forward",
+  "motion_source": "direct_model_trajectory",
+  "motion_status": "direct_model_trajectory",
+  "trajectory_len": 7,
+  "interpolated_trajectory_len": 61,
+  "trajectory_interpolation_points_per_step": 10,
+  "target_speed_mps": 4.951693706335262,
+  "text_included": false,
+  "decision_text": "Action: continue_forward",
+  "visualization_style": "ad_decision_camera_grid_bev_text",
+  "trajectory_visualization": {
+    "image": "/home/raykr/projects/ThreatRange/outputs/ad_benchmark/runs/fixed_traj_3round_manual_8b77_uniad_opendwm_posefix_20260619_191105/visualization/round_002/ad_vis/round_002_ad_decision.png",
+    "directory": "/home/raykr/projects/ThreatRange/outputs/ad_benchmark/runs/fixed_traj_3round_manual_8b77_uniad_opendwm_posefix_20260619_191105/visualization/round_002/ad_vis"
+  },
+  "files": {
+    "image": "/home/raykr/projects/ThreatRange/outputs/ad_benchmark/runs/fixed_traj_3round_manual_8b77_uniad_opendwm_posefix_20260619_191105/visualization/round_002/ad_vis/round_002_ad_decision.png",
+    "summary_json": "/home/raykr/projects/ThreatRange/outputs/ad_benchmark/runs/fixed_traj_3round_manual_8b77_uniad_opendwm_posefix_20260619_191105/visualization/round_002/ad_vis/round_002_uniad_ad_decision_summary.json",
+    "decision_text": ""
+  },
+  "image": "/home/raykr/projects/ThreatRange/outputs/ad_benchmark/runs/fixed_traj_3round_manual_8b77_uniad_opendwm_posefix_20260619_191105/visualization/round_002/ad_vis/round_002_ad_decision.png",
+  "summary": "/home/raykr/projects/ThreatRange/outputs/ad_benchmark/runs/fixed_traj_3round_manual_8b77_uniad_opendwm_posefix_20260619_191105/visualization/round_002/ad_vis/round_002_uniad_ad_decision_summary.json",
+  "decision_text_path": ""
+}

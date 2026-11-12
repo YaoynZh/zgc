@@ -1,0 +1,180 @@
+{
+  "schema_version": "threatrange.threat_trajectory_visualization.v1",
+  "scene_id": "scene-0637",
+  "sample_token": "8b77b8e2cbf144bea91f4c1856b05a7c",
+  "plan_id": "manual_8b77b8e2cbf144bea91f4c1856b05a7c_ff62eabbf7dd4b7191e14734d5d3e769",
+  "risk_type": "adjacent_vehicle_cut_in",
+  "operation": "modify_existing_actor",
+  "natural_language_prompt": "Manual existing actor trajectory.",
+  "selected_actor_ids": [
+    "ff62eabbf7dd4b7191e14734d5d3e769"
+  ],
+  "ego_reference": {
+    "source": "ego.trajectory_world:fallback_no_ad_plan",
+    "ego_motion_policy": "ad_plan",
+    "point_count": 3
+  },
+  "hdmap": {
+    "status": "rendered",
+    "feature_count": 30,
+    "location": "boston-seaport",
+    "coordinate_frame": "ego_at_current_round_t0"
+  },
+  "ego_motion_policy": "ad_plan",
+  "trajectory_frames": [
+    "ego",
+    "world"
+  ],
+  "visualization_views": [
+    "overview",
+    "zoom"
+  ],
+  "actors": [
+    {
+      "actor_id": "ff62eabbf7dd4b7191e14734d5d3e769",
+      "category": "vehicle.car",
+      "role": "modified",
+      "trajectory_frame": "ego",
+      "trajectory_source": "derived_from_actor.trajectory_world",
+      "start_xyz": [
+        6.6855,
+        0.6925,
+        0.5726
+      ],
+      "end_xyz": [
+        5.1171,
+        -1.0247,
+        0.5726
+      ],
+      "trajectory_xy": [
+        [
+          6.6855,
+          0.6925
+        ],
+        [
+          5.8364,
+          -0.2198
+        ],
+        [
+          5.1171,
+          -1.0247
+        ]
+      ],
+      "point_count": 3,
+      "duration_s": 0.1667,
+      "dx_m": -1.5684,
+      "dy_m": -1.7173,
+      "path_length_m": 2.3258,
+      "avg_speed_mps": 13.9555,
+      "lateral_span_m": 1.7173,
+      "longitudinal_span_m": 1.5684,
+      "min_distance_to_ego_reference_m": 0.1168,
+      "ego_lane_band_m": [
+        -1.8,
+        1.8
+      ],
+      "flags": []
+    }
+  ],
+  "actors_ego": [
+    {
+      "actor_id": "ff62eabbf7dd4b7191e14734d5d3e769",
+      "category": "vehicle.car",
+      "role": "modified",
+      "trajectory_frame": "ego",
+      "trajectory_source": "derived_from_actor.trajectory_world",
+      "start_xyz": [
+        6.6855,
+        0.6925,
+        0.5726
+      ],
+      "end_xyz": [
+        5.1171,
+        -1.0247,
+        0.5726
+      ],
+      "trajectory_xy": [
+        [
+          6.6855,
+          0.6925
+        ],
+        [
+          5.8364,
+          -0.2198
+        ],
+        [
+          5.1171,
+          -1.0247
+        ]
+      ],
+      "point_count": 3,
+      "duration_s": 0.1667,
+      "dx_m": -1.5684,
+      "dy_m": -1.7173,
+      "path_length_m": 2.3258,
+      "avg_speed_mps": 13.9555,
+      "lateral_span_m": 1.7173,
+      "longitudinal_span_m": 1.5684,
+      "min_distance_to_ego_reference_m": 0.1168,
+      "ego_lane_band_m": [
+        -1.8,
+        1.8
+      ],
+      "flags": []
+    }
+  ],
+  "actors_world": [
+    {
+      "actor_id": "ff62eabbf7dd4b7191e14734d5d3e769",
+      "category": "vehicle.car",
+      "role": "modified",
+      "trajectory_frame": "world",
+      "trajectory_source": "actor.trajectory_world",
+      "start_xyz": [
+        6.6855,
+        0.6925,
+        0.5726
+      ],
+      "end_xyz": [
+        5.676,
+        -1.1042,
+        0.5726
+      ],
+      "trajectory_xy": [
+        [
+          6.6855,
+          0.6925
+        ],
+        [
+          6.1204,
+          -0.2635
+        ],
+        [
+          5.676,
+          -1.1042
+        ]
+      ],
+      "point_count": 3,
+      "duration_s": 0.1667,
+      "dx_m": -1.0095,
+      "dy_m": -1.7967,
+      "path_length_m": 2.0615,
+      "avg_speed_mps": 12.3693,
+      "lateral_span_m": 1.7967,
+      "longitudinal_span_m": 1.0095,
+      "min_distance_to_ego_reference_m": 0.0701,
+      "ego_lane_band_m": [
+        -1.8,
+        1.8
+      ],
+      "flags": []
+    }
+  ],
+  "global_flags": [],
+  "files": {
+    "bev_world_svg": "/home/raykr/projects/ThreatRange/outputs/ad_benchmark/runs/fixed_traj_3round_manual_8b77_uniad_opendwm_posefix_20260619_191105/round_3/stage_manual_plan/output/threat_vis/manual_threat_plan_bev_world.svg",
+    "bev_world_overview_svg": "/home/raykr/projects/ThreatRange/outputs/ad_benchmark/runs/fixed_traj_3round_manual_8b77_uniad_opendwm_posefix_20260619_191105/round_3/stage_manual_plan/output/threat_vis/manual_threat_plan_bev_world.svg",
+    "bev_world_zoom_svg": "/home/raykr/projects/ThreatRange/outputs/ad_benchmark/runs/fixed_traj_3round_manual_8b77_uniad_opendwm_posefix_20260619_191105/round_3/stage_manual_plan/output/threat_vis/manual_threat_plan_bev_world_zoom.svg",
+    "summary_json": "/home/raykr/projects/ThreatRange/outputs/ad_benchmark/runs/fixed_traj_3round_manual_8b77_uniad_opendwm_posefix_20260619_191105/round_3/stage_manual_plan/output/threat_vis/manual_threat_plan_summary.json"
+  }
+}

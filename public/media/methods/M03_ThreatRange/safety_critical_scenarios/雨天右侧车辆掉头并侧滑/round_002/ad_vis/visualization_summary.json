@@ -1,0 +1,45 @@
+{
+  "artifact": "/home/raykr/projects/ThreatRange/outputs/ad_benchmark/runs/fixed_traj_3round_manual_8b77_uniad_opendwm_posefix_20260619_191105/round_2/stage_ad/output/uniad_outputs.pkl",
+  "sample_token": "8b77b8e2cbf144bea91f4c1856b05a7c",
+  "provider": "uniad",
+  "action_summary": "continue_forward",
+  "target_speed_mps": 4.951693706335262,
+  "trajectory_len": 7,
+  "planning_trajectory_ego": [
+    [
+      0.0,
+      0.0
+    ],
+    [
+      2.470092296600342,
+      -0.11461001634597778
+    ],
+    [
+      4.86061954498291,
+      -0.41652873158454895
+    ],
+    [
+      7.299768924713135,
+      -0.7562003135681152
+    ],
+    [
+      9.836751937866211,
+      -1.1643126010894775
+    ],
+    [
+      12.105921745300293,
+      -1.7251542806625366
+    ],
+    [
+      14.718326568603516,
+      -2.0110440254211426
+    ]
+  ],
+  "visualization_style": "trajectory_uniad_camera_bev",
+  "trajectory_visualization": {
+    "image": "/home/raykr/projects/ThreatRange/outputs/ad_benchmark/runs/fixed_traj_3round_manual_8b77_uniad_opendwm_posefix_20260619_191105/visualization/round_002/ad_vis/round_002_uniad_traj.jpg",
+    "camera_bev_image": "/home/raykr/projects/ThreatRange/outputs/ad_benchmark/runs/fixed_traj_3round_manual_8b77_uniad_opendwm_posefix_20260619_191105/visualization/round_002/ad_vis/round_002_uniad_traj.jpg",
+    "bev_image": "/home/raykr/projects/ThreatRange/outputs/ad_benchmark/runs/fixed_traj_3round_manual_8b77_uniad_opendwm_posefix_20260619_191105/visualization/round_002/ad_vis/round_002_uniad_traj_bev.jpg",
+    "directory": "/home/raykr/projects/ThreatRange/outputs/ad_benchmark/runs/fixed_traj_3round_manual_8b77_uniad_opendwm_posefix_20260619_191105/visualization/round_002/ad_vis"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "directory": "/home/raykr/projects/ThreatRange/outputs/ad_benchmark/runs/fixed_traj_3round_manual_8b77_uniad_opendwm_posefix_20260619_191105/visualization/round_001",
+  "artifact_policy": "debug",
+  "ad_vis_dir": "/home/raykr/projects/ThreatRange/outputs/ad_benchmark/runs/fixed_traj_3round_manual_8b77_uniad_opendwm_posefix_20260619_191105/visualization/round_001/ad_vis",
+  "threat_vis_dir": "/home/raykr/projects/ThreatRange/outputs/ad_benchmark/runs/fixed_traj_3round_manual_8b77_uniad_opendwm_posefix_20260619_191105/visualization/round_001/threat_vis",
+  "dd2_vis_dir": "/home/raykr/projects/ThreatRange/outputs/ad_benchmark/runs/fixed_traj_3round_manual_8b77_uniad_opendwm_posefix_20260619_191105/visualization/round_001/dd2_vis",
+  "uniad_decision_image": "/home/raykr/projects/ThreatRange/outputs/ad_benchmark/runs/fixed_traj_3round_manual_8b77_uniad_opendwm_posefix_20260619_191105/visualization/round_001/ad_vis/round_001_uniad_traj.jpg",
+  "uniad_visualization_summary": "/home/raykr/projects/ThreatRange/outputs/ad_benchmark/runs/fixed_traj_3round_manual_8b77_uniad_opendwm_posefix_20260619_191105/visualization/round_001/ad_vis/visualization_summary.json",
+  "ad_decision_image": "/home/raykr/projects/ThreatRange/outputs/ad_benchmark/runs/fixed_traj_3round_manual_8b77_uniad_opendwm_posefix_20260619_191105/visualization/round_001/ad_vis/round_001_ad_decision.png",
+  "ad_decision_visualization_summary": "/home/raykr/projects/ThreatRange/outputs/ad_benchmark/runs/fixed_traj_3round_manual_8b77_uniad_opendwm_posefix_20260619_191105/visualization/round_001/ad_vis/ad_decision_visualization_summary.json",
+  "dd2_world_model": "/home/raykr/projects/ThreatRange/outputs/ad_benchmark/runs/fixed_traj_3round_manual_8b77_uniad_opendwm_posefix_20260619_191105/visualization/round_001/dd2_vis/dd2_world_model.mp4",
+  "dd2_duration_s": 1.75,
+  "dd2_fps": 12.0,
+  "dd2_world_model_uniad_layout": "/home/raykr/projects/ThreatRange/outputs/ad_benchmark/runs/fixed_traj_3round_manual_8b77_uniad_opendwm_posefix_20260619_191105/visualization/round_001/dd2_vis/dd2_world_model_uniad_layout.mp4",
+  "dd2_world_model_bev": "/home/raykr/projects/ThreatRange/outputs/ad_benchmark/runs/fixed_traj_3round_manual_8b77_uniad_opendwm_posefix_20260619_191105/visualization/round_001/dd2_vis/dd2_world_model_bev.mp4",
+  "dd2_presentation_manifest": "/home/raykr/projects/ThreatRange/outputs/ad_benchmark/runs/fixed_traj_3round_manual_8b77_uniad_opendwm_posefix_20260619_191105/visualization/round_001/dd2_vis/presentation_manifest.json",
+  "threat_bev_world_svg": "/home/raykr/projects/ThreatRange/outputs/ad_benchmark/runs/fixed_traj_3round_manual_8b77_uniad_opendwm_posefix_20260619_191105/visualization/round_001/threat_vis/threat_trajectory_bev_world.svg",
+  "threat_bev_world_zoom_svg": "/home/raykr/projects/ThreatRange/outputs/ad_benchmark/runs/fixed_traj_3round_manual_8b77_uniad_opendwm_posefix_20260619_191105/visualization/round_001/threat_vis/threat_trajectory_bev_world_zoom.svg",
+  "threat_summary_json": "/home/raykr/projects/ThreatRange/outputs/ad_benchmark/runs/fixed_traj_3round_manual_8b77_uniad_opendwm_posefix_20260619_191105/visualization/round_001/threat_vis/threat_trajectory_summary.json"
+}
